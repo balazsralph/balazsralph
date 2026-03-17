@@ -1,7 +1,7 @@
-# 👋 Bonjour, je suis [Votre Prénom Nom]
+# Balazs Ralph
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Votre%20Nom&fontSize=80&animation=fadeIn" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Votre%20Balazs Ralph&fontSize=80&animation=fadeIn" alt="Banner"/>
 </div>
 
 <div align="center">
