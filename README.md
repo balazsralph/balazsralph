@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Votre%20Balazs Ralph&fontSize=80&animation=fadeIn" alt="Banner"/>
 </div>
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvcounter/?username=votrenom&color=brightgreen)
-</div>
-
 ## 🧑‍💻 À propos de moi
 
 - **Âge** : 28 ans  
@@ -30,7 +26,6 @@ Je suis passionné par l’exploration de nouvelles technologies et la recherche
 ## 📊 Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=votrenom&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votrenom&layout=compact&theme=radical)
 
 ## 📞 Contact
 
