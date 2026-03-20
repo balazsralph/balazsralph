@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 **Formation** : Étudiant à l'école **42 Paris** (depuis novembre 2023) – membre actif de [**42AI**](https://github.com/42-Team-Students)
+- 🎓 **Formation** : Étudiant à l'école **42 Paris** (depuis novembre 2023) – membre actif de [**42AI**](https://github.com/42-AI)
 - 📍 **Localisation** : Paris, Île-de-France
 - 💼 **Disponibilité** : Ouvert à des stages ou alternances à partir de **juin 2026**
 - 🌐 **Langues** : Français, Anglais
@@ -46,7 +46,6 @@ Je suis passionné par l'exploration des nouvelles technologies et la recherche 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Make](https://img.shields.io/badge/Make-064F8C?style=flat-square&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-FF6600?style=flat-square&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-5C2D91?style=flat-square&logoColor=white)
 
