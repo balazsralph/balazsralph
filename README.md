@@ -44,12 +44,6 @@ I'm a **42 Paris** student building toward applied **Machine Learning**, with a 
 | [**cub3D**](https://github.com/balazsralph/CUB3D) | Real-time 3D rendering engine using raycasting, inspired by Wolfenstein 3D. |
 | [**Minishell**](https://github.com/balazsralph/MINISHELL) | A Unix shell: parsing, pipes, redirections, process management. |
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balazsralph&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balazsralph&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-</div>
 
 ---
 
