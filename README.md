@@ -43,15 +43,3 @@ I'm a **42 Paris** student building toward applied **Machine Learning**, with a 
 | [**ft_linear_regression**](https://github.com/balazsralph/ft_linear_regression) | Linear regression from scratch — gradient descent and prediction, no ML library. |
 | [**cub3D**](https://github.com/balazsralph/CUB3D) | Real-time 3D rendering engine using raycasting, inspired by Wolfenstein 3D. |
 | [**Minishell**](https://github.com/balazsralph/MINISHELL) | A Unix shell: parsing, pipes, redirections, process management. |
-
-
----
-
-<div align="center">
-  <b>📫 Open to internship/apprenticeship conversations</b><br/>
-  <sub><a href="https://www.linkedin.com/in/ralph-balazs-068955210">LinkedIn</a> · <a href="mailto:ralph.balazs@42ai.fr">Email</a></sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,22&height=90&section=footer"/>
-</div>
